@@ -35,15 +35,15 @@ Follow the steps below to run Mcal! on your local machine:
    
 2. **Compile the code:**
 
-```
-g++ -o mcal mcal.cpp
-```
+  ```bash
+   g++ -o mcal mcal.cpp
+  ```
 
 3. **Run the program:**
 
-```
-./mcal
-```
+  ```
+  ./mcal
+  ```
 ### Example
 
 ** Here’s how the program works: **
