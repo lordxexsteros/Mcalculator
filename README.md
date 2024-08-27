@@ -47,7 +47,7 @@ Follow the steps below to run Mcal! on your local machine:
 ### Example
 
 **Here’s how the program works:**
-![how it works](images/image.png)
+![how it works](image.png)
 
 ### License
 
