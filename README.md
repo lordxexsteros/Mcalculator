@@ -30,7 +30,7 @@ Follow the steps below to run Mcal! on your local machine:
 1. **Clone the repository:**
 
 ```
-git clone https://github.com/yourusername/mcal.git
+git clone https://github.com/lordxexsteros/mcal.git
 cd mcal
  ```
 2. **Compile the code:**
