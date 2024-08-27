@@ -46,22 +46,12 @@ Follow the steps below to run Mcal! on your local machine:
   ```
 ### Example
 
-** Here’s how the program works: **
-
-
-Welcome to Mcal! by Mayank Biswas
-
-Choose your operation:
-Normal -
-Add = 1, Subtraction = 2, Division = 3, Multiplication = 4
-
-Extras -
-Power = 5, Round = 6, Square root = 7, Absolute value = 8
-
-Enter your choice:
+**Here’s how the program works:**
+![how it works](images/image.png)
 
 ### License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the ![Licence](images/your-image.png)
+ file for details.
 
 
