@@ -51,7 +51,7 @@ Follow the steps below to run Mcal! on your local machine:
 
 ### License
 
-This project is licensed under the MIT License - see the ![Licence](images/your-image.png)
+This project is licensed under the MIT License - see the ![Licence](https://github.com/lordxexsteros/Mcalculator/blob/main/LICENSE)
  file for details.
 
 
