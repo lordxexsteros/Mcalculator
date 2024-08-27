@@ -30,19 +30,19 @@ Follow the steps below to run Mcal! on your local machine:
 1. **Clone the repository:**
 
 ```
-git clone https://github.com/lordxexsteros/mcal.git
-cd mcal
+git clone https://github.com/lordxexsteros/Mcalculator.git
+cd Mcalculator
  ```
 2. **Compile the code:**
 
   ```bash
-   g++ -o mcal mcal.cpp
+   g++ -o Mcal Mcal.cpp
   ```
 
 3. **Run the program:**
 
   ```
-  ./mcal
+  ./Mcal
   ```
 ### Example
 
